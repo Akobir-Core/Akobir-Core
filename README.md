@@ -1,206 +1,258 @@
-## Hi there 👋
-
-# ⚡ AKOBIR
-
-### `Frontend Developer` · `Creative Developer` · `AI & Design Explorer`
-
-> Building interfaces, experimenting with ideas, and turning code into experiences.
+# ⚡ AKOBIR.DEV
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akobir+%F0%9F%91%8B;Frontend+Developer+in+progress+%F0%9F%9A%80;I+build.+I+design.+I+experiment.;Welcome+to+my+GitHub+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Akobir+%F0%9F%91%8B;Frontend+Developer+%7C+Creative+Coder;Turning+ideas+into+interfaces+%E2%9A%A1;Code.+Design.+Create." />
 </p>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS" />
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-111111?style=for-the-badge&logo=github" />
+  <a href="https://t.me/AkobirDev">
+    <img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+  </a>
+  <a href="https://t.me/AkobirPro">
+    <img src="https://img.shields.io/badge/CHANNEL-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+  </a>
+  <a href="https://www.instagram.com/akobir_shadow/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
 ---
 
-## 🧠 WHO AM I?
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Akobir**, a developer who enjoys combining **code, design and technology**.
-
-I'm currently focused on becoming a stronger **Frontend Developer**, while exploring creative development, AI tools and modern UI/UX.
+## 🧬 `whoami`
 
 ```js
-const akobir = {
+const Akobir = {
     role: "Frontend Developer",
-    learning: ["JavaScript", "React", "SCSS", "UI/UX"],
-    interestedIn: ["AI", "Creative Coding", "Web Design"],
-    mindset: "Learn → Build → Break → Fix → Repeat",
-    status: "Building something..."
+    status: "Building & learning",
+    
+    stack: [
+        "HTML",
+        "CSS / SCSS",
+        "JavaScript",
+        "React"
+    ],
+
+    interests: [
+        "UI/UX",
+        "Creative Coding",
+        "AI",
+        "Web Design"
+    ],
+
+    philosophy:
+        "Build first. Improve every day."
 };
 ```
 
----
-
-## ⚙️ TECH STACK
-
-### 💻 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,sass,bootstrap,nodejs,git,github,vscode" />
-</p>
-
-### 🎨 Design & Creative
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🚀 WHAT I'M WORKING ON
+## ⚡ ABOUT ME
+
+I'm **Akobir** — a developer focused on **Frontend Development, modern interfaces and creative digital experiences**.
+
+I started seriously diving into development recently, and now I'm turning ideas into real projects, experimenting with new technologies and improving every day.
+
+> **Still learning. Still building. Still becoming better.**
+
+---
+
+## 🧠 CURRENTLY LEARNING
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   ███████╗██████╗ ███████╗███╗   ██╗       │
-│   ██╔════╝██╔══██╗██╔════╝████╗  ██║       │
-│   █████╗  ██║  ██║█████╗  ██╔██╗ ██║       │
-│   ██╔══╝  ██║  ██║██╔══╝  ██║╚██╗██║       │
-│   ██║     ██████╔╝███████╗██║ ╚████║       │
-│   ╚═╝     ╚═════╝ ╚══════╝╚═╝  ╚═══╝       │
-│                                             │
-│              BUILDING THE FUTURE            │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│  HTML / CSS             ████████████████ 90% │
+│  SCSS                   ██████████████   80% │
+│  JavaScript             ███████████      65% │
+│  React                  ████████         45% │
+│  UI / UX                ███████████      65% │
+│  AI + Creative Tech     █████████        55% │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-🔹 Building modern web interfaces
-🔹 Improving JavaScript & React skills
-🔹 Creating creative UI experiments
-🔹 Exploring AI-powered workflows
-🔹 Turning ideas into real projects
+> The percentages are just a visual snapshot — learning never really ends.
 
 ---
 
-## 📊 GITHUB ACTIVITY
+## 🛠️ TECH STACK
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+### `FRONTEND`
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,sass,bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+### `TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,aftereffects,premiere" />
 </p>
 
 ---
 
-## 🧩 MY DEVELOPMENT PHILOSOPHY
-
-> **Don't just learn code. Build with it.**
-
-I believe the best way to improve is simple:
+## 🚀 WHAT I'M BUILDING
 
 ```text
-     IDEA
-       ↓
-     CODE
-       ↓
-    PROBLEM
-       ↓
-     DEBUG
-       ↓
-     LEARN
-       ↓
-     BUILD
-       ↓
-     REPEAT
+          ┌─────────────────┐
+          │      IDEA       │
+          └────────┬────────┘
+                   ↓
+          ┌─────────────────┐
+          │      DESIGN     │
+          └────────┬────────┘
+                   ↓
+          ┌─────────────────┐
+          │      CODE       │
+          └────────┬────────┘
+                   ↓
+          ┌─────────────────┐
+          │     DEBUG       │
+          └────────┬────────┘
+                   ↓
+          ┌─────────────────┐
+          │     IMPROVE     │
+          └────────┬────────┘
+                   ↓
+          ┌─────────────────┐
+          │      SHIP 🚀    │
+          └─────────────────┘
 ```
 
-Every project is another step forward.
+### 🌐 Web Development
 
----
+Modern websites, landing pages, responsive interfaces and interactive components.
 
-## 🌌 CURRENT FOCUS
+### 🎨 Creative Development
 
-| Area            | Status       |
-| --------------- | ------------ |
-| HTML / CSS      | 🟢 Strong    |
-| JavaScript      | 🟡 Learning  |
-| React           | 🟡 Building  |
-| SCSS            | 🟢 Using     |
-| UI / UX         | 🟡 Improving |
-| AI Tools        | 🔵 Exploring |
-| Creative Coding | 🔵 Exploring |
-
----
-
-## 🛠️ PROJECTS
-
-> A collection of things I'm building, experimenting with, and learning from.
-
-### 🌐 Web Projects
-
-Modern websites, landing pages, dashboards and interactive interfaces.
+Combining design, animation and code to create unique digital experiences.
 
 ### 🤖 AI Experiments
 
-Exploring how AI can improve creativity, development and workflows.
-
-### 🎨 Creative Experiments
-
-UI concepts, animations, visual experiments and digital design.
+Exploring how AI can become part of the development and creative workflow.
 
 ---
 
-## 📈 THE JOURNEY
+## 📊 GITHUB
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" />
+</p>
+
+---
+
+## 🛰️ DIGITAL PRESENCE
+
+<p align="center">
+
+### Telegram — Personal
+
+**[@AkobirDev](https://t.me/AkobirDev)**
+
+### Telegram — Channel
+
+**[@AkobirPro](https://t.me/AkobirPro)**
+
+### Instagram
+
+**[@akobir_shadow](https://www.instagram.com/akobir_shadow/)**
+
+</p>
+
+---
+
+## 🔥 MY MINDSET
 
 ```text
-2024 ────────────────► Started exploring technology
-                         │
-2025 ────────────────► Started learning development
-                         │
-2026 ────────────────► Frontend + React + Creative Tech
+             DON'T WAIT.
+                ↓
+             LEARN.
+                ↓
+             BUILD.
+                ↓
+             FAIL.
+                ↓
+             DEBUG.
+                ↓
+             IMPROVE.
+                ↓
+             REPEAT.
+```
+
+> **"Every line of code is another step forward."**
+
+---
+
+## 🌌 ROADMAP
+
+```text
+Frontend
+   │
+   ├── HTML / CSS       ✓
+   ├── SCSS             ✓
+   ├── JavaScript       ◐
+   ├── React            ◐
+   ├── Advanced UI      ◐
+   │
+   └──────────────► Build bigger things
                          │
                          ▼
-                 ███████████████
-                 BUILDING DAILY
-                 ███████████████
+                    Creative Tech
+                         │
+                         ▼
+                         AI + Web
 ```
 
 ---
 
-## 💬 RANDOM FACT
+## 💻 FEATURED PROJECTS
+
+> 🚧 My best projects are currently under construction.
+
+Soon this section will contain:
+
+`01` — Creative Websites
+`02` — React Applications
+`03` — UI Experiments
+`04` — AI × Web Projects
+
+---
+
+## 🧩 A LITTLE SOMETHING
 
 ```txt
-I don't want to only use technology.
+I started recently.
 
-I want to understand it,
-create with it,
-and eventually build things
-that people remember.
+But I don't want to stay
+where I started.
+
+Every project teaches me something.
+Every bug gives me something to fix.
+Every mistake makes the next version better.
+
+This GitHub is not the final result.
+
+It's the process.
 ```
 
 ---
 
-## 🔗 CONNECT
-
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## ⚡ BUILD. LEARN. EVOLVE.
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2FFF&height=120&section=footer"/>
 
 </p>
-
----
-
-<p align="center">
-
-### ⚡ KEEP BUILDING. KEEP LEARNING. KEEP GOING.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</p>
-
