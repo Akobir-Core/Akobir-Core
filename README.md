@@ -1,4 +1,4 @@
-**# ⚡ AKOBIR.DEV
+****# ⚡ AKOBIR.DEV
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Akobir+%F0%9F%91%8B;Frontend+Developer+%7C+Creative+Coder;Turning+ideas+into+interfaces+%E2%9A%A1;Code.+Design.+Create." />
@@ -256,4 +256,5 @@ It's the process.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2FFF&height=120&section=footer"/>
 
 </p>
+**
 **
