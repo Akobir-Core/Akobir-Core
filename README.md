@@ -1,263 +1,103 @@
+<div align="center">
 
-👋 HI, I'M AKOBIR!
-Frontend Developer • Creative Coder • UI/UX Enthusiast
-🧬 ABOUT ME
-I'm Akobir, a frontend developer from Uzbekistan focused on building modern interfaces, creative web experiences and interactive digital products.
-I enjoy combining:
-CODE
-  +
-DESIGN
-  +
-MOTION
-  +
-CREATIVITY
-  +
-AI
-  ↓
-DIGITAL EXPERIENCE
-CURRENTLY
-▸ Learning
-▸ Building
-▸ Experimenting
-▸ Improving
-MY PRINCIPLE
-Build first. Improve every day.
-STATUS
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18&text=AKOBIR.DEV&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%2F%2F%20Creative%20Coder&descAlignY=60&descSize=16"/>
 
-● LEARNING
-● BUILDING
-● CREATING
-● EVOLVING
-🧠 WHO AM I?
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Akobir+%F0%9F%91%8B;Frontend+Developer;Creative+Coder;Building+Modern+Digital+Experiences;Code+%C2%B7+Design+%C2%B7+Create"/>
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://t.me/AkobirDev">
+<img src="https://img.shields.io/badge/Telegram-AkobirDev-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4">
+</a>
+
+<a href="https://t.me/AkobirPro">
+<img src="https://img.shields.io/badge/Channel-AkobirPro-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4">
+</a>
+
+<a href="https://www.instagram.com/akobir_shadow/">
+<img src="https://img.shields.io/badge/Instagram-akobir__shadow-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
+</a>
+
+</div>
+
+---
+
+# 👋 Hi, I'm Akobir!
+
+<div align="center">
+
+### `Frontend Developer • Creative Coder • UI Enthusiast`
+
+</div>
+
+<div align="center">
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif">
+
+### About Me
+
+🇺🇿 **Uzbekistan**
+
+💻 Frontend Developer
+
+🎨 UI / UX & Creative Design
+
+⚡ JavaScript & React
+
+🧩 HTML / CSS / SCSS
+
+🤖 AI + Web Experiments
+
+🚀 Building & learning every day
+
+🌌 Anime & Creative Visuals
+
+<br><br>
+
+> **Build first. Improve every day.**
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🧬 WHO AM I?
+
+```js
 const Akobir = {
-    name: "Akobir",
     role: "Frontend Developer",
-    location: "Uzbekistan",
 
     focus: [
-        "Frontend Development",
+        "Web Development",
         "UI / UX",
         "Creative Coding",
         "AI + Web"
     ],
 
-    stack: {
-        frontend: [
-            "HTML",
-            "CSS",
-            "SCSS",
-            "JavaScript",
-            "React"
-        ],
+    technologies: [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript",
+        "React"
+    ],
 
-        tools: [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Figma"
-        ],
-
-        creative: [
-            "After Effects",
-            "Premiere Pro",
-            "Photoshop"
-        ]
-    },
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma"
+    ],
 
     mindset:
         "Learn. Build. Improve. Repeat."
 };
-⚡️ CURRENTLY LEARNING
-FRONTEND
-HTML / CSS
-██████████████████░░ 90%
-
-SCSS
-████████████████░░░░ 80%
-
-JavaScript
-█████████████░░░░░░░ 65%
-
-React
-█████████░░░░░░░░░░░ 45%
-CREATIVE
-UI / UX
-█████████████░░░░░░░ 65%
-
-Creative Coding
-███████████░░░░░░░░░ 55%
-
-AI + Web
-██████████░░░░░░░░░░ 50%
-
-Motion / Visual
-████████░░░░░░░░░░░░ 40%
-🛠 LANGUAGES • FRAMEWORKS • TOOLS
-LANGUAGES
-FRAMEWORKS
-TOOLS
-CREATIVE TOOLS
-UI DESIGN • MOTION • VIDEO • AI • CREATIVE TECH
-🏆 ACHIEVEMENTS
-🦈
-PULL SHARK
-Pull Requests
-⭐️
-STARSTRUCK
-Stars & Projects
-🧠
-GALAXY BRAIN
-Discussions
-🤝
-PAIR EXTRAORDINAIRE
-Collaboration
-⚡️
-QUICKDRAW
-Fast Issue / PR
-📊 GITHUB STATISTICS
-📈 CONTRIBUTION ACTIVITY
-🐍 CONTRIBUTION SNAKE
-🌐 WHAT I BUILD
-🌌 WEB
-Modern websites, landing pages, responsive layouts and interactive components.
-🎨 UI / UX
-Clean interfaces, visual systems, micro-interactions and modern layouts.
-🤖 AI + WEB
-Creative AI experiments, smart workflows and future-focused web ideas.
-🚀 MY WORKFLOW
-             ┌──────────────┐
-             │     IDEA     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DESIGN    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     CODE     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     TEST     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DEBUG     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    POLISH    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    SHIP 🚀   │
-             └──────────────┘
-💻 FEATURED PROJECTS
-01 — CREATIVE WEB
-🌐 Modern Website
-✓ Responsive design
-✓ Modern UI
-✓ Interactive sections
-✓ Micro animations
-✓ Clean frontend
-STATUS: BUILDING
-02 — REACT LAB
-⚛️ React Application
-✓ Reusable components
-✓ Interactive UI
-✓ Modern architecture
-✓ Dynamic content
-✓ Responsive layout
-STATUS: BUILDING
-03 — UI EXPERIMENT
-🎨 Creative Interface
-✓ Motion
-✓ Transitions
-✓ Visual effects
-✓ Experimental layouts
-✓ Premium aesthetics
-STATUS: EXPERIMENTING
-04 — AI × WEB
-🤖 Creative AI Project
-✓ AI workflow
-✓ Smart interface
-✓ Creative tools
-✓ Automation
-✓ Future concepts
-STATUS: EXPLORING
-🧩 DEVELOPMENT PROCESS
-IDEA
-  │
-  ▼
-DESIGN
-  │
-  ▼
-CODE
-  │
-  ▼
-TEST
-  │
-  ▼
-DEBUG
-  │
-  ▼
-IMPROVE
-  │
-  ▼
-DEPLOY 🚀
-🌱 ROADMAP
-2026
- │
- ├── HTML / CSS             ✓
- ├── SCSS                   ✓
- ├── JavaScript             ◐
- ├── React                  ◐
- ├── Advanced UI            ◐
- │
- ▼
-Frontend Development
- │
- ▼
-Creative Development
- │
- ▼
-AI × WEB
- │
- ▼
-Bigger Products
- │
- ▼
-Build Something
-People Remember
-🔥 MINDSET
-DON'T WAIT
-    ↓
-LEARN
-    ↓
-BUILD
-    ↓
-BREAK
-    ↓
-DEBUG
-    ↓
-IMPROVE
-    ↓
-REPEAT
-I don't want to stay where I started.
-🛰 DIGITAL PRESENCE
-💭 FINAL NOTE
-I started recently.
-
-But I don't want to stay
-where I started.
-
-Every project teaches me.
-Every bug teaches me.
-Every mistake improves me.
-
-This profile isn't the final result.
-
-It's the process.
-Code is my tool. Creativity is my edge.
-AKOBIR.DEV
-Frontend Developer • Creative Coder • Uzbekistan
