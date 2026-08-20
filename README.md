@@ -1,207 +1,510 @@
-⚡ AKOBIR.DEV
+<div align="center">
 
-DESIGN × CODE × MOTION × AI
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:060816,50:0A1B35,100:00D9FF&text=AKOBIR.DEV&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder&descAlignY=60&descSize=17&descColor=7DD3FC"/>
 
-🧬 WHOAMI
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Akobir+%F0%9F%91%8B;Frontend+Developer;Creative+Coder;UI%2FUX+Enthusiast;Building+Modern+Digital+Experiences;Code+%E2%80%A2+Design+%E2%80%A2+Motion+%E2%80%A2+AI"/>
 
+<br>
+
+<a href="https://github.com/AKOBIR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-Profile-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/AkobirDev">
+<img src="https://img.shields.io/badge/TELEGRAM-AkobirDev-0B1220?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+</a>
+
+<a href="https://t.me/AkobirPro">
+<img src="https://img.shields.io/badge/CHANNEL-AkobirPro-0B1220?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+</a>
+
+<a href="https://www.instagram.com/akobir_shadow/">
+<img src="https://img.shields.io/badge/INSTAGRAM-akobir__shadow-0B1220?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👋 HI, I'M AKOBIR
+
+### `Frontend Developer • Creative Coder • UI/UX Enthusiast`
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="58%" valign="top">
+
+## 🧬 ABOUT ME
+
+I'm **Akobir**, a frontend developer from **Uzbekistan** focused on modern interfaces, creative websites and interactive digital experiences.
+
+```text
+FOCUS
+
+▸ Frontend Development
+▸ UI / UX
+▸ Creative Coding
+▸ React
+▸ AI + Web
+```
+
+### MY PHILOSOPHY
+
+> **Build first. Improve every day.**
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="95%"/>
+
+<br><br>
+
+```text
+STATUS
+
+● LEARNING
+● BUILDING
+● CREATING
+● EVOLVING
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 WHO AM I?
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```js
 const Akobir = {
   role: "Frontend Developer",
+  location: "Uzbekistan",
+
   focus: [
     "Web Development",
     "UI / UX",
     "Creative Coding",
-    "AI Experiments"
+    "AI + Web"
   ],
 
-  stack: {
-    frontend: ["HTML", "CSS", "SCSS", "JavaScript", "React"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"],
-    creative: ["After Effects", "Premiere Pro"]
-  },
+  stack: [
+    "HTML",
+    "CSS",
+    "SCSS",
+    "JavaScript",
+    "React"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma"
+  ],
 
   mindset:
-    "Build first. Improve every day."
+    "Learn. Build. Improve. Repeat."
 };
+```
 
+</td>
+</tr>
+</table>
 
-⚡ ABOUT ME
+---
 
-I'm Akobir — a frontend developer focused on creating modern interfaces, interactive experiences and clean digital products.
+<div align="center">
 
+## ⚡ TECH STACK
 
+### FRONTEND
 
-I enjoy combining:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,sass,bootstrap&perline=7"/>
 
-CODE
-  +
-DESIGN
-  +
-ANIMATION
-  +
-CREATIVITY
-  =
-DIGITAL EXPERIENCE
+### TOOLS
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6"/>
 
-Still learning. Still building. Still evolving.
+### CREATIVE
 
-🎯 CURRENT FOCUS
+<img src="https://skillicons.dev/icons?i=photoshop,aftereffects,premiere&perline=6"/>
 
-🛠️ TECH STACK
+</div>
 
-FRONTEND
+---
 
-TOOLS & DESIGN
+<div align="center">
 
-🚀 HOW I BUILD
+## 📊 CURRENT LEARNING
 
-              ┌───────────────┐
-              │     IDEA      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    DESIGN     │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     CODE      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │     TEST      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    DEBUG      │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    IMPROVE    │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    SHIP 🚀    │
-              └───────────────┘
+</div>
 
+<table align="center">
+<tr>
 
-🌐 WHAT I'M BUILDING
+<td width="50%">
 
-🌌 WEB
+### `FRONTEND`
 
-Modern websites, landing pages, responsive layouts and interactive components.
+```text
+HTML / CSS
+██████████████████░░ 90%
 
-🎨 CREATIVE
+SCSS
+████████████████░░░░ 80%
 
-UI experiments, animations, visual systems and creative interfaces.
+JavaScript
+█████████████░░░░░░░ 65%
 
-🤖 AI
+React
+█████████░░░░░░░░░░░ 45%
+```
 
-AI-powered ideas, experiments and new creative development workflows.
+</td>
 
-📊 GITHUB ANALYTICS
+<td width="50%">
 
-🏆 ACHIEVEMENTS
+### `CREATIVE`
 
-🧩 FEATURED PROJECTS
+```text
+UI / UX
+█████████████░░░░░░░ 65%
 
-01 — Creative Websites
+Creative Coding
+███████████░░░░░░░░░ 55%
 
-Modern web experiences with strong visual direction, responsiveness and motion.
+AI + Web
+██████████░░░░░░░░░░ 50%
 
-02 — React Applications
+Motion
+████████░░░░░░░░░░░░ 40%
+```
 
-Interactive applications built with reusable components and modern frontend architecture.
+</td>
 
-03 — UI Experiments
+</tr>
+</table>
 
-Small experiments focused on animations, layouts, interactions and visual systems.
+<p align="center">
+<sub>Current learning snapshot — always improving.</sub>
+</p>
 
-04 — AI × Web
+---
 
-Projects exploring the combination of artificial intelligence and frontend development.
+<div align="center">
 
-📈 CONTRIBUTION GRAPH
+## 🏆 GITHUB ACHIEVEMENTS
 
-🐍 CONTRIBUTION SNAKE
+<img src="https://github-profile-trophy.vercel.app/?username=AKOBIR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
-🧠 CURRENTLY LEARNING
+</div>
 
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  JavaScript                 ███████████░░░░░░░░  65%    │
-│  React                      ████████░░░░░░░░░░░░  45%    │
-│  Advanced UI                ███████████░░░░░░░░░  65%    │
-│  Creative Development       █████████░░░░░░░░░░░  55%    │
-│  AI + Web                   █████████░░░░░░░░░░░  55%    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+---
 
+<div align="center">
 
-🛰️ DIGITAL PRESENCE
+## 📈 GITHUB STATS
 
-🔥 MINDSET
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AKOBIR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=060816&title_color=67E8F9&icon_color=22D3EE&text_color=C9D1D9"/>
 
-DON'T WAIT.
-    ↓
-LEARN.
-    ↓
-BUILD.
-    ↓
-FAIL.
-    ↓
-DEBUG.
-    ↓
-IMPROVE.
-    ↓
-REPEAT.
+<img height="180" src="https://streak-stats.demolab.com?user=AKOBIR_USERNAME&hide_border=true&background=060816&ring=22D3EE&fire=38BDF8&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B"/>
 
+</div>
 
-Every line of code is another step forward.
+<br>
 
-🌌 ROADMAP
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKOBIR_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=060816&title_color=67E8F9&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKOBIR_USERNAME&bg_color=060816&color=67E8F9&line=22D3EE&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 WHAT I BUILD
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+## 🌐 WEB
+
+Modern websites, landing pages and responsive interfaces.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🎨 UI / UX
+
+Clean layouts, visual systems and smooth interactions.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🤖 AI + WEB
+
+Creative experiments and AI-powered ideas.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 FEATURED PROJECTS
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### `01` — CREATIVE WEB
+
+**Modern frontend experience**
+
+```text
+✓ Responsive
+✓ Modern UI
+✓ Interactive
+✓ Micro animations
+✓ Clean code
+```
+
+`BUILDING`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — REACT LAB
+
+**Interactive React application**
+
+```text
+✓ Reusable components
+✓ Dynamic UI
+✓ Responsive layout
+✓ Modern architecture
+✓ Real-world practice
+```
+
+`BUILDING`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03` — UI EXPERIMENT
+
+**Creative interface experiments**
+
+```text
+✓ Motion
+✓ Transitions
+✓ Visual effects
+✓ Experimental layouts
+✓ Futuristic design
+```
+
+`EXPERIMENTING`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — AI × WEB
+
+**Creative technology experiments**
+
+```text
+✓ AI workflows
+✓ Smart interfaces
+✓ Automation
+✓ Creative tools
+✓ Future concepts
+```
+
+`EXPLORING`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧩 HOW I BUILD
+
+```text
+             ┌───────────────┐
+             │      IDEA     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     DESIGN    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │      CODE     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │      TEST     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     DEBUG     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     POLISH    │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │    SHIP 🚀    │
+             └───────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 ROADMAP
+
+</div>
+
+```text
+2026
 
 Frontend
    │
-   ├── HTML / CSS           ✓
-   ├── SCSS                 ✓
-   ├── JavaScript           ◐
-   ├── React                ◐
-   ├── Advanced UI          ◐
-   │
-   └──────────────► Bigger Products
-                           │
-                           ▼
-                     Creative Tech
-                           │
-                           ▼
-                        AI + Web
-                           │
-                           ▼
-                    Build Something
-                         BIGGER
+   ├── HTML / CSS        ✓
+   ├── SCSS              ✓
+   ├── JavaScript        ◐
+   ├── React             ◐
+   └── Advanced UI       ◐
+          │
+          ▼
+Creative Development
+          │
+          ▼
+AI × Web
+          │
+          ▼
+Bigger Products
+          │
+          ▼
+Build Something Great
+```
 
+---
 
-🧪 CURRENT STATUS
+<div align="center">
 
-[ BUILDING ]   ●
+## 🔥 MINDSET
 
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+REPEAT
+```
 
+### **I don't want to stay where I started.**
 
-[ LEARNING ]   ●
+</div>
 
+---
 
+<div align="center">
 
-[ EXPERIMENTING ]   ●
+## 🛰️ DIGITAL PRESENCE
 
+<br>
 
+<a href="https://github.com/AKOBIR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-AKOBIR_USERNAME-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[ EVOLVING ]   ●
+<a href="https://t.me/AkobirDev">
+<img src="https://img.shields.io/badge/Telegram-@AkobirDev-111827?style=for-the-badge&logo=telegram&logoColor=38BDF8"/>
+</a>
 
-💭 A LITTLE SOMETHING
+<a href="https://t.me/AkobirPro">
+<img src="https://img.shields.io/badge/Channel-@AkobirPro-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+</a>
 
+<a href="https://www.instagram.com/akobir_shadow/">
+<img src="https://img.shields.io/badge/Instagram-@akobir__shadow-111827?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 A LITTLE SOMETHING
+
+<br>
+
+```text
 I started recently.
 
-I don't want to stay
+But I don't want to stay
 where I started.
 
 Every project teaches me.
@@ -211,6 +514,32 @@ Every mistake improves me.
 This profile isn't the final result.
 
 It's the process.
+```
 
+<br>
 
-BUILD. LEARN. EVOLVE.
+> **Code is my tool. Creativity is my edge.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+EVOLVE;MAKE+IT+SIMPLE.+MAKE+IT+MEMORABLE.;SEE+THE+IDEA.+WRITE+THE+CODE."/>
+
+<br><br>
+
+# `AKOBIR.DEV`
+
+### `Frontend Developer • Creative Coder • Uzbekistan`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AKOBIR_USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,50:0369A1,100:060816&section=footer"/>
+
+</div>
