@@ -1,103 +1,216 @@
-<div align="center">
+⚡ AKOBIR.DEV
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18&text=AKOBIR.DEV&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%2F%2F%20Creative%20Coder&descAlignY=60&descSize=16"/>
+DESIGN × CODE × MOTION × AI
 
-<br>
+🧬 WHOAMI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Akobir+%F0%9F%91%8B;Frontend+Developer;Creative+Coder;Building+Modern+Digital+Experiences;Code+%C2%B7+Design+%C2%B7+Create"/>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://t.me/AkobirDev">
-<img src="https://img.shields.io/badge/Telegram-AkobirDev-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4">
-</a>
-
-<a href="https://t.me/AkobirPro">
-<img src="https://img.shields.io/badge/Channel-AkobirPro-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4">
-</a>
-
-<a href="https://www.instagram.com/akobir_shadow/">
-<img src="https://img.shields.io/badge/Instagram-akobir__shadow-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
-</a>
-
-</div>
-
----
-
-# 👋 Hi, I'm Akobir!
-
-<div align="center">
-
-### `Frontend Developer • Creative Coder • UI Enthusiast`
-
-</div>
-
-<div align="center">
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif">
-
-### About Me
-
-🇺🇿 **Uzbekistan**
-
-💻 Frontend Developer
-
-🎨 UI / UX & Creative Design
-
-⚡ JavaScript & React
-
-🧩 HTML / CSS / SCSS
-
-🤖 AI + Web Experiments
-
-🚀 Building & learning every day
-
-🌌 Anime & Creative Visuals
-
-<br><br>
-
-> **Build first. Improve every day.**
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-## 🧬 WHO AM I?
-
-```js
 const Akobir = {
-    role: "Frontend Developer",
+  role: "Frontend Developer",
+  focus: [
+    "Web Development",
+    "UI / UX",
+    "Creative Coding",
+    "AI Experiments"
+  ],
 
-    focus: [
-        "Web Development",
-        "UI / UX",
-        "Creative Coding",
-        "AI + Web"
-    ],
+  stack: {
+    frontend: ["HTML", "CSS", "SCSS", "JavaScript", "React"],
+    tools: ["Git", "GitHub", "VS Code", "Figma"],
+    creative: ["After Effects", "Premiere Pro"]
+  },
 
-    technologies: [
-        "HTML",
-        "CSS",
-        "SCSS",
-        "JavaScript",
-        "React"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma"
-    ],
-
-    mindset:
-        "Learn. Build. Improve. Repeat."
+  mindset:
+    "Build first. Improve every day."
 };
+
+
+⚡ ABOUT ME
+
+I'm Akobir — a frontend developer focused on creating modern interfaces, interactive experiences and clean digital products.
+
+
+
+I enjoy combining:
+
+CODE
+  +
+DESIGN
+  +
+ANIMATION
+  +
+CREATIVITY
+  =
+DIGITAL EXPERIENCE
+
+
+Still learning. Still building. Still evolving.
+
+🎯 CURRENT FOCUS
+
+🛠️ TECH STACK
+
+FRONTEND
+
+TOOLS & DESIGN
+
+🚀 HOW I BUILD
+
+              ┌───────────────┐
+              │     IDEA      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    DESIGN     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     CODE      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     TEST      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    DEBUG      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    IMPROVE    │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    SHIP 🚀    │
+              └───────────────┘
+
+
+🌐 WHAT I'M BUILDING
+
+🌌 WEB
+
+Modern websites, landing pages, responsive layouts and interactive components.
+
+🎨 CREATIVE
+
+UI experiments, animations, visual systems and creative interfaces.
+
+🤖 AI
+
+AI-powered ideas, experiments and new creative development workflows.
+
+📊 GITHUB ANALYTICS
+
+🏆 ACHIEVEMENTS
+
+🧩 FEATURED PROJECTS
+
+01 — Creative Websites
+
+Modern web experiences with strong visual direction, responsiveness and motion.
+
+02 — React Applications
+
+Interactive applications built with reusable components and modern frontend architecture.
+
+03 — UI Experiments
+
+Small experiments focused on animations, layouts, interactions and visual systems.
+
+04 — AI × Web
+
+Projects exploring the combination of artificial intelligence and frontend development.
+
+📈 CONTRIBUTION GRAPH
+
+🐍 CONTRIBUTION SNAKE
+
+🧠 CURRENTLY LEARNING
+
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  JavaScript                 ███████████░░░░░░░░  65%    │
+│  React                      ████████░░░░░░░░░░░░  45%    │
+│  Advanced UI                ███████████░░░░░░░░░  65%    │
+│  Creative Development       █████████░░░░░░░░░░░  55%    │
+│  AI + Web                   █████████░░░░░░░░░░░  55%    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+
+🛰️ DIGITAL PRESENCE
+
+🔥 MINDSET
+
+DON'T WAIT.
+    ↓
+LEARN.
+    ↓
+BUILD.
+    ↓
+FAIL.
+    ↓
+DEBUG.
+    ↓
+IMPROVE.
+    ↓
+REPEAT.
+
+
+Every line of code is another step forward.
+
+🌌 ROADMAP
+
+Frontend
+   │
+   ├── HTML / CSS           ✓
+   ├── SCSS                 ✓
+   ├── JavaScript           ◐
+   ├── React                ◐
+   ├── Advanced UI          ◐
+   │
+   └──────────────► Bigger Products
+                           │
+                           ▼
+                     Creative Tech
+                           │
+                           ▼
+                        AI + Web
+                           │
+                           ▼
+                    Build Something
+                         BIGGER
+
+
+🧪 CURRENT STATUS
+
+[ BUILDING ]   ●
+
+
+
+[ LEARNING ]   ●
+
+
+
+[ EXPERIMENTING ]   ●
+
+
+
+[ EVOLVING ]   ●
+
+💭 A LITTLE SOMETHING
+
+I started recently.
+
+I don't want to stay
+where I started.
+
+Every project teaches me.
+Every bug teaches me.
+Every mistake improves me.
+
+This profile isn't the final result.
+
+It's the process.
+
+
+BUILD. LEARN. EVOLVE.
