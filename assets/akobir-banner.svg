@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="50%" stop-color="#10194A"/>
+    <stop offset="100%" stop-color="#2A0D45"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00F0FF"/>
+    <stop offset="50%" stop-color="#7B2FFF"/>
+    <stop offset="100%" stop-color="#FF2CDF"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<circle cx="1030" cy="60" r="120" fill="#00F0FF" opacity=".08"/>
+<circle cx="1100" cy="250" r="160" fill="#FF2CDF" opacity=".07"/>
+<path d="M0 260 C220 190 360 330 590 230 S950 145 1200 220" fill="none" stroke="url(#neon)" stroke-width="3" opacity=".8"/>
+<path d="M0 275 C220 205 360 345 590 245 S950 160 1200 235" fill="none" stroke="#00F0FF" stroke-width="1" opacity=".4"/>
+<rect x="70" y="60" width="1060" height="200" rx="20" fill="#050816" opacity=".45" stroke="#2DD4FF" stroke-opacity=".25"/>
+<text x="100" y="135" font-family="monospace" font-size="64" font-weight="800" fill="#FFFFFF">AKOBIR.DEV</text>
+<text x="102" y="178" font-family="monospace" font-size="22" fill="#9FEFFF">FRONTEND DEVELOPER • CREATIVE CODER</text>
+<text x="102" y="220" font-family="monospace" font-size="18" fill="#CBD5E1">CODE • DESIGN • MOTION • AI × WEB</text>
+<rect x="100" y="238" width="390" height="4" rx="2" fill="url(#neon)" filter="url(#glow)"/>
+<g opacity=".9">
+  <circle cx="1025" cy="118" r="7" fill="#00F0FF"/><circle cx="1055" cy="118" r="7" fill="#7B2FFF"/><circle cx="1085" cy="118" r="7" fill="#FF2CDF"/>
+  <rect x="1000" y="145" width="120" height="70" rx="12" fill="#0B1120" stroke="#24324A"/>
+  <text x="1018" y="173" font-family="monospace" font-size="12" fill="#67E8F9">STATUS</text>
+  <text x="1018" y="198" font-family="monospace" font-size="16" fill="#FFFFFF">ONLINE</text>
+</g>
+</svg>
