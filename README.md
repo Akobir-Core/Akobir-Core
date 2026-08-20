@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/Akobir-Core"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://t.me/AkobirDev"> <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4"/> </a> <a href="https://t.me/AkobirPro"> <img src="https://img.shields.io/badge/Channel-0D1117?style=for-the-badge&logo=telegram&logoColor=00BFFF"/> </a> <a href="https://www.instagram.com/akobir_shadow/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> </p>
 
-🧬 whoami
+🧬 WHOAMI
 
 <table> <tr> <td width="60%" valign="top">
 
@@ -50,7 +50,7 @@ const Akobir = {
 
 </td> </tr> </table>
 
-⚡ Still learning. Still building. Still becoming better.
+<p align="center"> ⚡ <b>Still learning. Still building. Still becoming better.</b> </p>
 
 🌌 ABOUT ME
 
@@ -58,13 +58,18 @@ I'm Akobir — a developer focused on Frontend Development, modern interfaces an
 
 I enjoy turning ideas into real interfaces, experimenting with technologies and improving my skills through real projects.
 
+<p align="center">
+
 ╭──────────────────────────────────────────────╮
 │                                              │
-│   CODE        →        DESIGN        →       │
+│     CODE      →      DESIGN      →           │
 │                                              │
-│        CREATE        →        IMPROVE        │
+│          CREATE      →      IMPROVE          │
 │                                              │
 ╰──────────────────────────────────────────────╯
+
+</p>
+
 🧠 CURRENTLY LEARNING
 HTML / CSS          ██████████████████░░  90%
 SCSS                ████████████████░░░░  80%
@@ -90,7 +95,9 @@ The percentages are only a visual snapshot — learning never really ends.
 
 🚀 WHAT I'M BUILDING
 
-<table> <tr> <td width="50%" valign="top">
+<table> <tr>
+
+<td width="50%" valign="top">
 
 🌐 Web Development
 
@@ -104,9 +111,13 @@ Modern websites, landing pages, responsive interfaces and interactive components
 
 Combining design, animation and code to create unique digital experiences.
 
-</td> </tr>
+</td>
 
-<tr> <td width="50%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 🤖 AI Experiments
 
@@ -120,9 +131,14 @@ Exploring AI-powered workflows and creative technologies.
 
 Trying new layouts, animations, effects and interaction ideas.
 
-</td> </tr> </table>
+</td>
+
+</tr> </table>
 
 🔥 MY WORKFLOW
+
+<p align="center">
+
         💡 IDEA
            │
            ▼
@@ -139,6 +155,9 @@ Trying new layouts, animations, effects and interaction ideas.
            │
            ▼
         🚀 SHIP
+
+</p>
+
 🧭 ROADMAP
 Frontend
    │
@@ -158,25 +177,13 @@ Frontend
                          │
                          ▼
                   Full Product Skills
-📊 GITHUB STATS
+🐍 CONTRIBUTION ENERGY
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akobir-Core&show_icons=true&hide_border=true&bg_color=050816&title_color=00F0FF&text_color=FFFFFF&icon_color=7B2FFF" height="180" alt="GitHub stats" />
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/> </p>
 
-<img src="https://streak-stats.demolab.com/?user=Akobir-Core&hide_border=true&background=050816&ring=FF2CDF&fire=FF2CDF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=8B949E" height="180" alt="GitHub streak" />
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akobir-Core&bg_color=0D1117&color=00F0FF&line=7B2FFF&point=FF2CDF&area=true&hide_border=true" width="100%" alt="Contribution activity"/> </p>
 
-</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akobir-Core&layout=compact&hide_border=true&bg_color=050816&title_color=00F0FF&text_color=FFFFFF" height="160" alt="Top languages" /> </p>
-
-🏆 GITHUB TROPHIES
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Akobir-Core&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub trophies" /> </p>
-
-📈 CONTRIBUTION ACTIVITY
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akobir-Core&bg_color=050816&color=00F0FF&line=7B2FFF&point=FF2CDF&area=true&hide_border=true" width="100%" alt="Contribution activity" /> </p>
-
-⚡ Every contribution is another step forward.
+<p align="center"> ⚡ <b>Every contribution is another step forward.</b> </p>
 
 💻 FEATURED PROJECTS
 01 ── Creative Websites
@@ -185,7 +192,7 @@ Frontend
 04 ── AI × Web Projects
 05 ── Interactive Experiences
 
-🚧 More projects are coming...
+<p align="center"> 🚧 <b>More projects are coming...</b> </p>
 
 🛰️ DIGITAL PRESENCE
 
@@ -202,10 +209,10 @@ Frontend
 </p>
 
 🧩 A LITTLE SOMETHING
+
 I started recently.
 
-But I don't want to stay
-where I started.
+But I don't want to stay where I started.
 
 Every project teaches me something.
 Every bug gives me something to fix.
@@ -214,7 +221,11 @@ Every mistake makes the next version better.
 This GitHub is not the final result.
 
 It's the process.
+
 🔥 MY MINDSET
+
+<p align="center">
+
         DON'T WAIT
             ↓
           LEARN
@@ -229,12 +240,14 @@ It's the process.
             ↓
          REPEAT
 
-"Every line of code is another step forward."
+</p>
+
+<p align="center"> <i>"Every line of code is another step forward."</i> </p>
 
 🌠 FINAL MESSAGE
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+learning.+Keep+building.;The+journey+has+just+started." alt="Final typing animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2300&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+learning.+Keep+building.;The+journey+has+just+started." alt="Final typing animation"/> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F0FF,50:7B2FFF,100:FF2CDF&animation=twinkling" width="100%" alt="Footer" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F0FF,50:7B2FFF,100:FF2CDF&animation=twinkling" width="100%" alt="Footer"/> </p>
 
 <p align="center"> <b>⚡ AKOBIR.DEV • CODE • DESIGN • CREATE ⚡</b> </p>
